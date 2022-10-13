@@ -1,1 +1,2 @@
 This is a new story project.
+Nothing serious here just practicing with git hub
